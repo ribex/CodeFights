@@ -37,6 +37,7 @@ namespace FirstDuplicate
             var count = 0;
             var lowestIndex = a.Length;
 
+
             for (var candidate = 0; candidate < lowestIndex - 1; candidate++)
             {
                 if (Array.IndexOf(dupInts, a[candidate]) != -1)
