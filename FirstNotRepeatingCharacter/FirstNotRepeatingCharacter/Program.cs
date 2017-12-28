@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,7 +15,14 @@ namespace FirstNotRepeatingCharacter
         {
             var s = "abacabad";
 
+            var len = s.Length;
 
+            var hash = new Hashtable()[len - 1];
+
+            for (var i = 0; i < len; i++)
+            {
+                
+            }
         }
     }
 }
