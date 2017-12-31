@@ -24,6 +24,8 @@ namespace FirstNotRepeatingCharacter
             {
                 
             }
+
+            Console.WriteLine("_");
         }
     }
 }
