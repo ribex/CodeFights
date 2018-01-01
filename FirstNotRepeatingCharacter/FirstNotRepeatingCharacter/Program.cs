@@ -24,7 +24,7 @@ namespace FirstNotRepeatingCharacter
             {
                 
             }
-
+            // no such character
             Console.WriteLine("_");
         }
     }
