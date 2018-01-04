@@ -23,6 +23,8 @@ namespace FirstNotRepeatingCharacter
             for (var i = 0; i < len; i++)
             {
                 // if character exists in hash
+
+                // else
             }
             // no such character
             Console.WriteLine("_");
