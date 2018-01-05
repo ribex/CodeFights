@@ -20,6 +20,8 @@ namespace FirstNotRepeatingCharacter
 
             var hash = new Hashtable()[len - 1];
 
+            // hash table for each letter of the alphabet
+
             for (var i = 0; i < len; i++)
             {
                 // if character exists in hash
