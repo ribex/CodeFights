@@ -27,6 +27,7 @@ namespace FirstNotRepeatingCharacter
                 // if character exists in hash
 
                 // else
+                // do something
             }
             // no such character
             Console.WriteLine("_");
